@@ -9,5 +9,15 @@
     <version>1.0-SNAPSHOT</version>
     <name>spring_framework_rest_api_server</name>
 
+    <dependencies>
+        <!-- https://mvnrepository.com/artifact/org.springframework/spring-webmvc -->
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-webmvc</artifactId>
+            <version>5.2.3.RELEASE</version>
+        </dependency>
+
+
+    </dependencies>
     
 </project>
